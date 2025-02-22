@@ -9,5 +9,6 @@
 ```
 
 ```
+~ docker pull alexisvgutec/repo-utec-ms-products-ts:1
 ~ docker run -d -p 5000:5001 --name container-products alexisvgutec/repo-utec-ms-products-ts:1
 ```
